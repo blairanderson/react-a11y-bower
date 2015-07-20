@@ -4,8 +4,8 @@
   "description": "bower build for react-a11y npm module",
   "main": "index.js",
   "scripts": {
-    "publish": "webpack index.js bundle.js",
-    "publishmin": "COMPRESS=true webpack index.js bundle.min.js"
+    "publish": "webpack index.js ./dist/bundle.js",
+    "publishmin": "COMPRESS=true webpack index.js ./dist/bundle.min.js"
   },
   "repository": {
     "type": "git",
