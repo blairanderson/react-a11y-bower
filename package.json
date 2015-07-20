@@ -4,7 +4,8 @@
   "description": "bower build for react-a11y npm module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "publish": "webpack index.js bundle.js",
+    "publishmin": "COMPRESS=true webpack index.js bundle.min.js"
   },
   "repository": {
     "type": "git",

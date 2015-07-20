@@ -49,6 +49,8 @@ var ReactA11y =
 
 	var a11y = __webpack_require__(1);
 
+	module.exports = ally;
+
 /***/ },
 /* 1 */
 /***/ function(module, exports, __webpack_require__) {
