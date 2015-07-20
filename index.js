@@ -1,3 +1,1 @@
-var a11y = require('react-a11y')
-
-module.exports = ally
+module.exports = require('react-a11y')

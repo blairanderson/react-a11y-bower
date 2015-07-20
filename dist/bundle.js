@@ -47,9 +47,7 @@ var ReactA11y =
 
 	'use strict';
 
-	var a11y = __webpack_require__(1);
-
-	module.exports = ally;
+	module.exports = __webpack_require__(1);
 
 /***/ },
 /* 1 */
