@@ -1,0 +1,20 @@
+{
+  "name": "react-a11y-bower",
+  "version": "0.2.6",
+  "authors": [
+    "Blair Anderson <blair@instacart.com>"
+  ],
+  "description": "bower build for react-a11y npm module",
+  "main": "bundle.js",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
